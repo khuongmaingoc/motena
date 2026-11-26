@@ -69,9 +69,9 @@ export default function AcademyLanding() {
           <h1>
             Khách hàng
             <br />
-            nhớ cách bạn
+            nhớ cảm giác 
             <br />
-            <span>khiến họ cảm thấy.</span>
+            <span> mà bạn mang lại cho họ.</span>
           </h1>
           <p className="hero-description">
             Rèn luyện tinh thần Omotenashi qua những hành động nhỏ, để mỗi trải
